@@ -24,3 +24,6 @@ The next steps for Smart Stove is to implement more coordination with the stove 
 
 # Devpost URL
 https://devpost.com/software/smart-stove
+
+# Video of Smart Stove in Action
+https://www.youtube.com/watch?v=yy8wtMYdA0A&ab_channel=CindyJin
